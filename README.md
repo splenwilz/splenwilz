@@ -12,7 +12,7 @@ Thanks for popping by! I'm a multi-faceted professional with a passion for softw
 
 <h3> How to reach me </h3>
 <div>
-    <a href="https://www.linkedin.com/splenwilz" target="_blank">
+    <a href="https://www.linkedin.com/in/tasknify" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="125px">
     </a>&nbsp
     <a href="https://calendly.com/godswill-williamsz/30min" target="_blank">
