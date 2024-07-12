@@ -1,6 +1,7 @@
 ## 👋 Hello, I'm Godswill William
 
-- Thanks for popping by! I'm a data scientist (and petroluem engineer in view) with expertise in technical data science writing and full-stack web development.
+Thanks for popping by! I'm a multi-faceted professional with a passion for software development, digital marketing, SEO consulting, and data science. I currently co-own an online workspace for freelancers and run Tasknify.com, where I demystify web development with Python. With a background in Computer Engineering, I have found my true calling in the tech industry and am dedicated to continuous learning and skill exploration.
+
 - An avid learner and driven doer with a bias towards action, I enjoy seeking and solving meaningful problems with tech and data.
 - I welcome you to join me on a learning journey! Follow me on [GitHub](https://github.com/splenwilz), [Medium](https://splenwilz.medium.com) and [LinkedIn](https://linkedin.com/knowaloud) for a good dose of practical educational data science content.
 - You can find my data science portfolio below, where every project and article was born out of inspiration, curiosity, and motivation. Feel free to reach out for a chat on topics common to both of us!
