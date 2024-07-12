@@ -15,17 +15,17 @@ Thanks for popping by! I'm a multi-faceted professional with a passion for softw
     <a href="https://www.linkedin.com/splenwilz" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="125px">
     </a>&nbsp
-    <a href="https://calendly.com/splenwilz/chat" target="_blank">
+    <a href="https://calendly.com/godswill-williamsz/30min" target="_blank">
         <img src="https://img.shields.io/badge/Calendly-Let's%20chat!-brightgreen?style=for-the-badge&logo=googlechat" height="30">
     </a>&nbsp
-    <a href="https://www.buymeacoffee.com/splenwilz" target="_blank">    
+    <a href="https://buymeacoffee.com/godswillwid" target="_blank">    
         <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="125"
     </a>&nbsp
     
 </div>
 <hr>
 
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethleungty)](https://github.com/splenwilz) -->
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=splenwilz)](https://github.com/splenwilz) -->
 
 ## Portfolio Contents
 1. [Computer Vision](#computer-vision)
